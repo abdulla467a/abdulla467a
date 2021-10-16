@@ -46,14 +46,14 @@
 
 <p align="center">
     <a href="https://github.com/abdulla467a/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdulla al shaykat's streak" src="https://github.com/abdulla467a/github-readme-statsuser=abdulla467a&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdulla al shaykat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulla467a&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/abdulla467a/github-readme-stats"><img alt="Abdulla al shaykat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulla467a&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/abdulla467a/github-readm-stats"><img alt="Abdulla al shaykat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulla467a&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br>
     
   <a>
