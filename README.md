@@ -77,7 +77,7 @@
 <a href = "https://www.linkedin.com/in/abdullah-al-shaykat-138001223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/?lang=en"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://youtube.com/channel/UCEDAl9OjdOOkGVyugTzBh3Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a target="_blank" href = "https://youtube.com/channel/UCEDAl9OjdOOkGVyugTzBh3Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
