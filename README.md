@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/abdulla467a)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://abdullah15-2105.wixsite.com/personal)**
 
 - 📫 How to reach me **abdullaalshaykat@gmail.com*
 
